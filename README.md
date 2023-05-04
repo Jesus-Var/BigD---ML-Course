@@ -13,6 +13,6 @@ Jesus - M5 - 03 - Bucles.ipynb is the testing chamber for while and for loops
 
 In the folder BigD - M5 - 2023-05-03 you can find the next files:
 
-Jesus - SpaceX - 2 - EDA.ipynb is the file where I obtain data from SpaceX launches to learn basic commands in the Pandas library from Python
+Jesus - SpaceX - 2 - EDA.ipynb is the file where I obtain data from SpaceX launches to learn basic commands to transform the data collected in the Pandas library from Python
 
 Jesus - SpaceX - 4 - EDA with Data Visualization.ipynb are the first data visulalization graphics with the seaborn y matplotlib libraries
