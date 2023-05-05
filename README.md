@@ -19,7 +19,7 @@ Jesus - SpaceX - 4 - EDA with Data Visualization.ipynb are the first data visula
 
 In the folder BigD - M5 - 2023-05-04 you can find the next files:
 
-Jesus - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb in this file I tried to learn some of the simplest methods to improve the ML models
+Jesus - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb in this file I tried to improve some ML models with simple methods
 
 Jesus - M5 - 09 - Folium.ipynb (This file is only inicialized and readed but not completed)
 
