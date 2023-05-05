@@ -16,3 +16,11 @@ In the folder BigD - M5 - 2023-05-03 you can find the next files:
 Jesus - SpaceX - 2 - EDA.ipynb is the file where I obtain data from SpaceX launches to learn basic commands to transform the data collected in the Pandas library from Python
 
 Jesus - SpaceX - 4 - EDA with Data Visualization.ipynb are the first data visulalization graphics with the seaborn y matplotlib libraries
+
+In the folder BigD - M5 - 2023-05-04 you can find the next files:
+
+Jesus - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb in this file I tried to learn some of the simplest methods to improve the ML models
+
+Jesus - M5 - 09 - Folium.ipynb (This file is only inicialized and readed but not completed)
+
+Jesus - Prophet - Predecir el valor de Bitcoin.ipynb in this file I implemented the Prophet model to the values of the Bitcoin currency to predict how it could perform the next year
