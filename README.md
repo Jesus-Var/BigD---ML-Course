@@ -24,3 +24,9 @@ Jesus - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb in thi
 Jesus - M5 - 09 - Folium.ipynb (This file is only inicialized and readed but not completed)
 
 Jesus - Prophet - Predecir el valor de Bitcoin.ipynb in this file I implemented the Prophet model to the values of the Bitcoin currency to predict how it could perform the next year
+
+In the folder BigD - M5 - 2023-05-05 you can find the next files:
+
+Jesus - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb I practiced with the Folium library in Python to visualize the SpaceX launches sites, and if the different launches were a success or not
+
+Jesus - M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb in this file I compared the accuracy of some predictive models in Python after I trained with a shortened SpaceX data
